@@ -3,10 +3,10 @@ Los ejercicios de la guía practica de POO
 
 GRUPO:
 Ivan Lizandro Castellanos Martinez
-250266205
+2502662025
 --------------------
 Cristian Alexander Galdámez Renderos
-2500662026
+2500662025
 --------------------
 Brayan Orlando Cabezas Moreno 
 2504622025
